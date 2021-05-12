@@ -61,7 +61,7 @@ function main() {
     ;;
   "print")
     init_dirs
-    warn_path
+    # warn_path
     print_env
     print_completion
     print_shell_function
